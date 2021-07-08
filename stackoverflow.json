@@ -1,0 +1,52 @@
+{
+
+"audits": [
+    {
+
+        "id": 20994687984,
+        "ticket_id": 0001,
+        "created_at": "2014-09-15T16:30:11Z",
+        "author_id": 312016568,
+        "via": {
+            "channel": "email",
+            "source": {
+                "from": {
+                    "address": "email@domain.com",
+                    "name": "user name",
+                    "original_recipients": [
+                        "email@domain.com",
+                        "email@domain.com"
+                    ]
+                },
+                "to": {
+                    "address": "email@domain.com",
+                    "name": "My Portal"
+                },
+                "rel": null
+            }
+        },
+    },
+ {
+        "id": 20994845144,
+        "ticket_id": 0002,
+        "created_at": "2014-09-15T16:32:18Z",
+        "author_id": 233915468,
+        "via": {
+            "channel": "web",
+            "source": {
+                "from": {},
+                "to": {},
+                "rel": null
+            }
+        },
+        "events": [
+            {
+                "id": 20994845154,
+                "type": "Comment",
+                "author_id": 233915468,
+                "body": "<SOME TEXT>",
+                "public": true,
+                "attachments": []
+            },
+
+        }
